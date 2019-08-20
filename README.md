@@ -1,7 +1,7 @@
 # Curriculum Vitae
 [PDF](CV.pdf)
 
-# Build/compile
+## Build/compile
 This repo comes with a Docker environment for compiling the LaTeX source code.  
 
 1. Build and run the environment
